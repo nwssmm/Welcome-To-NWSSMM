@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Welcome to NWSSMM</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #005A8D;
+    }
+    a {
+      color: #0077cc;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to NWSSMM</h1>
+  <p><strong>Northwest Student Chapter of the Society for Marine Mammalogy</strong></p>
+
+  <p>Welcome to the <strong>Northwest Student Chapter of the Society for Marine Mammalogy (NWSSMM)</strong>! We are a community of graduate and undergraduate students primarily based in <strong>Oregon, Washington, and British Columbia</strong>, united by our shared interest in marine mammal science.</p>
+
+  <h2>🌊 Who We Are</h2>
+  <p>NWSSMM connects students across the Pacific Northwest who are passionate about marine mammals. While many of our members are affiliated with academic institutions, <strong>everyone is welcome</strong> to participate and contribute to this vibrant community.</p>
+
+  <ul>
+    <li>Oregon State University</li>
+    <li>University of Washington</li>
+    <li>Western Washington University</li>
+    <li>University of British Columbia</li>
+    <li>University of Victoria</li>
+  </ul>
+
+  <p>Our <strong>professional sponsor</strong> is <a href="https://marinemammal.org/person/andrew-trites" target="_blank">Dr. Andrew Trites</a> from the University of British Columbia.</p>
+
+  <h2>🧭 What We Do</h2>
+  <ul>
+    <li><strong>Annual Chapter Meeting</strong>: rotating yearly across PNW institutions. The 2025 meeting is TBD.</li>
+    <li><strong>Biannual Newsletter</strong>: published in Fall and Spring.</li>
+    <li><strong>Networking & Symposia</strong>: informal gatherings and research events.</li>
+  </ul>
+
+  <h2>📬 Stay Connected</h2>
+  <p><strong>Join Our Listserv</strong>: <a href="https://lists.oregonstate.edu/mailman/listinfo/nwssmm" target="_blank">Sign up here</a></p>
+  <p><strong>Email Us</strong>: <a href="mailto:nwssmm.leaders@gmail.com">nwssmm.leaders@gmail.com</a></p>
+
+  <h2>👕 Get Your NWSSMM Swag!</h2>
+  <p>Shop our official Bonfire store: <a href="https://www.bonfire.com/store/nwssmm-merch/" target="_blank">NWSSMM Merch</a></p>
+
+  <p>If you're a new student or just learning about NWSSMM, welcome! We're glad you're here and we can’t wait to see what you’ll bring to our community.</p>
+</body>
+</html>
